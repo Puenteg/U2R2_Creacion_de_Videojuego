@@ -15,7 +15,7 @@ Que el alumnado practique los fundamentos de los videojuegos en 2D con Unity.
 [ Juego de Plataformas 2D/Unity](https://www.youtube.com/watch?v=-m7ZaHhkDAc&list=PLNEAWvYbJJ9kZpaIg2RfzAc_KZixBgchT)
 
 ### Leccion1_MGPG_Juego de Plataformas 2D/Unity Tutorial/1-Capitulo/Escenario/Programacion videojuegos
-  ** [Leccion1_MGPG_Juego de Plataformas 2D/Unity Tutorial/1-Capitulo/Escenario/Programacion videojuegos](https://github.com/Puenteg/U2R2_Creacion_de_Videojuego/tree/main/Leccion%201) <br>
+  **  [Leccion1_MGPG_Juego de Plataformas 2D/Unity Tutorial/1-Capitulo/Escenario/Programacion videojuegos](https://github.com/Puenteg/U2R2_Creacion_de_Videojuego/tree/main/Leccion%201) <br>
  
 ### Leccion2_MGPG_Juego Plataformas 2D/Movimiento y Salto/ Unity Tutorial/2-Capitulo/Programacion Videojuegos
   ** [Leccion2_MGPG_Juego Plataformas 2D/Movimiento y Salto/ Unity Tutorial/2-Capitulo/Programacion Videojuegos](https://github.com/Puenteg/U2R2_Creacion_de_Videojuego/tree/main/Leccion%202) <br>
