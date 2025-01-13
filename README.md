@@ -54,37 +54,78 @@ Que el alumnado practique los fundamentos de los videojuegos en 2D con Unity.
 #### Leccion13_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Menu Principal Parte 2_Cap-13_Programacion Videojuegos
  * [Leccion13_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Menu Principal Parte 2_Cap-13_Programacion Videojuegos](https://github.com/Puenteg/U2R2_Creacion_de_Videojuego/tree/main/Leccion%2013)<br>
 
-#### Leccion13_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Menu Principal Parte 2_Cap-13_Programacion Videojuegos
- * [Leccion13_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Menu Principal Parte 2_Cap-13_Programacion Videojuegos]()<br>
-
 #### Leccion14_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Controles Para Movil_Cap-14_Programacion Videojuegos
- * [Leccion14_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Controles Para Movil_Cap-14_Programacion Videojuegos]()<br>
+ * [Leccion14_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Controles Para Movil_Cap-14_Programacion Videojuegos](https://github.com/Puenteg/U2R2_Creacion_de_Videojuego/tree/main/Leccion%2014)<br>
 
 #### Leccion15_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Score & Nuevo Nivel_Cap-15_Programacion Videojuegos
- * [Leccion15_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Score & Nuevo Nivel_Cap-15_Programacion Videojuegos]()<br>
+ * [Leccion15_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Score & Nuevo Nivel_Cap-15_Programacion Videojuegos](https://github.com/Puenteg/U2R2_Creacion_de_Videojuego/tree/main/Leccion%2015)<br>
  
 #### Leccion16_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Menu Pausa Y Options_Cap-16_Programacion Videojuegos
- * [Leccion16_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Menu Pausa Y Options_Cap-16_Programacion Videojuegos]()<br>
+ * [Leccion16_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Menu Pausa Y Options_Cap-16_Programacion Videojuegos](https://github.com/Puenteg/U2R2_Creacion_de_Videojuego/tree/main/Leccion%2016)<br>
 
 #### Leccion17_MGPG_Juegouego De Plataformas 2D_Unity Tutorial 2021_Inteligencia Artificial_Cap-17_Programacion Videojuegos
- * [Leccion17_MGPG_Juegouego De Plataformas 2D_Unity Tutorial 2021_Inteligencia Artificial_Cap-17_Programacion Videojuegos]()<br>
+ * [Leccion17_MGPG_Juegouego De Plataformas 2D_Unity Tutorial 2021_Inteligencia Artificial_Cap-17_Programacion Videojuegos](https://github.com/Puenteg/U2R2_Creacion_de_Videojuego/tree/main/Leccion%2017)<br>
 
 #### Leccion18_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_IA Parte 2_Cap-18_Programacion Videojuegos
- * [Leccion18_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_IA Parte 2_Cap-18_Programacion Videojuegos]()<br>
+ * [Leccion18_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_IA Parte 2_Cap-18_Programacion Videojuegos](https://github.com/Puenteg/U2R2_Creacion_de_Videojuego/tree/main/Leccion%2018)<br>
 
 #### Leccion19_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Musica Y Sonidos_Cap-19_Programacion Videojuegos
- * [Leccion19_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Musica Y Sonidos_Cap-19_Programacion Videojuegos]()<br>
+ * [Leccion19_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Musica Y Sonidos_Cap-19_Programacion Videojuegos](https://github.com/Puenteg/U2R2_Creacion_de_Videojuego/tree/main/Leccion%2019)<br>
 
 #### Leccion20_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Trampolin_Cap-20_Programacion Videojuegos
- * [Leccion20_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Trampolin_Cap-20_Programacion Videojuegos]()<br>
+ * [Leccion20_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Trampolin_Cap-20_Programacion Videojuegos](https://github.com/Puenteg/U2R2_Creacion_de_Videojuego/tree/main/Leccion%2020)<br>
 
 #### Leccion21_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Enemigo Planta_Cap-21_Programacion Videojuegos
- * [Leccion21_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Enemigo Planta_Cap-21_Programacion Videojuegos]()<br>
+ * [Leccion21_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Enemigo Planta_Cap-21_Programacion Videojuegos](https://github.com/Puenteg/U2R2_Creacion_de_Videojuego/tree/main/Leccion%2021)<br>
 
  #### Leccion22_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Enemigos Voladores_Cap-22_Programacion Videojuegos
- * [Leccion22_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Enemigos Voladores_Cap-22_Programacion Videojuegos]()<br>
+ * [Leccion22_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Enemigos Voladores_Cap-22_Programacion Videojuegos](https://github.com/Puenteg/U2R2_Creacion_de_Videojuego/tree/main/Leccion%2022)<br>
 
- #### 
+ #### Leccion23_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Bola de pinchos_Cap-23_Programacion Videojuegos
+* [Leccion23_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Bola de pinchos_Cap-23_Programacion Videojuegos](https://github.com/Puenteg/U2R2_Creacion_de_Videojuego/tree/main/Leccion%2023) <br>
+
+#### Leccion24_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Plataformas Moviles_Cap-24_Programacion Videojuegos
+* [Leccion24_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Plataformas Moviles_Cap-24_Programacion Videojuegos](https://github.com/Puenteg/U2R2_Creacion_de_Videojuego/tree/main/Leccion%2024)<br>
+
+#### Leccion25_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Cambio colores skins_Cap-25_Programacion Videojuegos
+* [Leccion25_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Cambio colores skins_Cap-25_Programacion Videojuegos](https://github.com/Puenteg/U2R2_Creacion_de_Videojuego/tree/main/Leccion%2025)<br>
+
+#### Leccion26_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Particula Polvo_Cap-26_Programacion Videojuegos
+* [Leccion26_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Particula Polvo_Cap-26_Programacion Videojuegos](https://github.com/Puenteg/U2R2_Creacion_de_Videojuego/tree/main/Leccion%2026)<br>
+
+#### Leccion27_MGPG_Juego De Plataformas 2D/Unity Tutorial 2021/IA con Raycast/Cap-27/Programacion Videojuegos
+* [Leccion27_MGPG_Juego De Plataformas 2D/Unity Tutorial 2021/IA con Raycast/Cap-27/Programacion Videojuegos](https://github.com/Puenteg/U2R2_Creacion_de_Videojuego/tree/main/Leccion%2027) <br>
+
+#### Leccion28_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Dash_Extra_Programacion Videojuegos
+* [Leccion28_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Dash_Extra_Programacion Videojuegos](https://github.com/Puenteg/U2R2_Creacion_de_Videojuego/tree/main/Leccion%2028) <br>
+
+#### Leccion29_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Deslizar por la Pared_Cap-29_Programacion Videojuegos
+* [Leccion29_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Deslizar por la Pared_Cap-29_Programacion Videojuegos](https://github.com/Puenteg/U2R2_Creacion_de_Videojuego/tree/main/Leccion%2029)<br>
+
+#### Leccion30_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Vidas_Cap-30_Programacion Videojuegos
+* [Leccion30_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Vidas_Cap-30_Programacion Videojuegos](https://github.com/Puenteg/U2R2_Creacion_de_Videojuego/tree/main/Leccion%2030)<br>
+
+#### Leccion31_MGPG_Juego De Plataformas 2D/Unity Tutorial 2021/Fallos y Ejecutable PC/Cap-30/Programacion Videojuegos
+* [Leccion31_MGPG_Juego De Plataformas 2D/Unity Tutorial 2021/Fallos y Ejecutable PC/Cap-30/Programacion Videojuegos](https://github.com/Puenteg/U2R2_Creacion_de_Videojuego/tree/main/Leccion%2031)<br>
+
+#### Leccion32_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Actualizar el proyecto y la CAJA misteriosa_Cap-32
+* [Leccion32_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Actualizar el proyecto y la CAJA misteriosa_Cap-32](https://github.com/Puenteg/U2R2_Creacion_de_Videojuego/tree/main/Leccion%2032)<br>
+
+#### Leccion33_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Cajas diferentes_Cap-33
+* [Leccion33_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Cajas diferentes_Cap-33](https://github.com/Puenteg/U2R2_Creacion_de_Videojuego/tree/main/Leccion%2033)<br>
+
+#### Leccion34_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Ataque Espada Parte 1_Cap-34
+* [Leccion34_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Ataque Espada Parte 1_Cap-34](https://github.com/Puenteg/U2R2_Creacion_de_Videojuego/tree/main/Leccion%2034)<br>
+
+#### Leccion35_MGPG_JuegoJuego De Plataformas 2D_Unity Tutorial 2021_Ataque con Espada Parte 2_Cap-35
+* [Leccion35_MGPG_JuegoJuego De Plataformas 2D_Unity Tutorial 2021_Ataque con Espada Parte 2_Cap-35](https://github.com/Puenteg/U2R2_Creacion_de_Videojuego/tree/main/Leccion%2035)<br>
+
+#### Leccion36_MGPG_Final de las lecciones
+* [Leccion36_MGPG_Final de las lecciones](https://github.com/Puenteg/U2R2_Creacion_de_Videojuego/tree/main/Leccion%2036)<br>
+
+## Actividad 2: Nivel Complemento
+* [Juego-Recolecta frutas]()
+
   
 
 
