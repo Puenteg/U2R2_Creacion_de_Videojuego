@@ -54,6 +54,37 @@ Que el alumnado practique los fundamentos de los videojuegos en 2D con Unity.
 #### Leccion13_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Menu Principal Parte 2_Cap-13_Programacion Videojuegos
  * [Leccion13_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Menu Principal Parte 2_Cap-13_Programacion Videojuegos](https://github.com/Puenteg/U2R2_Creacion_de_Videojuego/tree/main/Leccion%2013)<br>
 
+#### Leccion13_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Menu Principal Parte 2_Cap-13_Programacion Videojuegos
+ * [Leccion13_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Menu Principal Parte 2_Cap-13_Programacion Videojuegos]()<br>
+
+#### Leccion14_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Controles Para Movil_Cap-14_Programacion Videojuegos
+ * [Leccion14_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Controles Para Movil_Cap-14_Programacion Videojuegos]()<br>
+
+#### Leccion15_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Score & Nuevo Nivel_Cap-15_Programacion Videojuegos
+ * [Leccion15_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Score & Nuevo Nivel_Cap-15_Programacion Videojuegos]()<br>
+ 
+#### Leccion16_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Menu Pausa Y Options_Cap-16_Programacion Videojuegos
+ * [Leccion16_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Menu Pausa Y Options_Cap-16_Programacion Videojuegos]()<br>
+
+#### Leccion17_MGPG_Juegouego De Plataformas 2D_Unity Tutorial 2021_Inteligencia Artificial_Cap-17_Programacion Videojuegos
+ * [Leccion17_MGPG_Juegouego De Plataformas 2D_Unity Tutorial 2021_Inteligencia Artificial_Cap-17_Programacion Videojuegos]()<br>
+
+#### Leccion18_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_IA Parte 2_Cap-18_Programacion Videojuegos
+ * [Leccion18_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_IA Parte 2_Cap-18_Programacion Videojuegos]()<br>
+
+#### Leccion19_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Musica Y Sonidos_Cap-19_Programacion Videojuegos
+ * [Leccion19_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Musica Y Sonidos_Cap-19_Programacion Videojuegos]()<br>
+
+#### Leccion20_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Trampolin_Cap-20_Programacion Videojuegos
+ * [Leccion20_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Trampolin_Cap-20_Programacion Videojuegos]()<br>
+
+#### Leccion21_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Enemigo Planta_Cap-21_Programacion Videojuegos
+ * [Leccion21_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Enemigo Planta_Cap-21_Programacion Videojuegos]()<br>
+
+ #### Leccion22_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Enemigos Voladores_Cap-22_Programacion Videojuegos
+ * [Leccion22_MGPG_Juego De Plataformas 2D_Unity Tutorial 2021_Enemigos Voladores_Cap-22_Programacion Videojuegos]()<br>
+
+ #### 
   
 
 
